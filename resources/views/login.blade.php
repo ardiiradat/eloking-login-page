@@ -46,7 +46,6 @@
                 <a href="#">Valorant</a>
                 <a href="#">Dota 2</a>
                 <a href="#">CS:GO</a>
-                <a href="#">Overwatch 2</a>
                 <div class="dropdown">
                     <span>Company</span>
                     <div class="submenu">
@@ -123,7 +122,7 @@
                                 </li>
                                 <li>
                                     <a href="#" class="discord-icon">
-                                        <img src="{{ asset('images/icons/icon-discord-white.svg') }}"
+                                        <img src="{{ asset('images/icons/icon-facebook.svg') }}"
                                             alt="Login with Discord">
                                     </a>
                                 </li>
@@ -133,9 +132,10 @@
                             <div>
                                 <a href="#" class="fancy forgot-password">Forgot Password?</a>
                             </div>
+                            <div>
+                                <a href="#" class="fancy forgot-password">Create Account</a>
+                            </div>
                         </div>
-                        <div class="login-tip">Member area can be accessed after the <span>first
-                                purchase</span>.</div>
                     </div>
                 </form>
             </div>
