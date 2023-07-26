@@ -1,3 +1,21 @@
+## Getting Started
+- Clone the repository to your local machine:
+<pre>git clone https://github.com/ardiiradat/eloking-login-page.git</pre>
+- Install PHP dependencies using Composer:
+<pre>composer install</pre>
+- Generate a new application key:
+<pre>php artisan key:generate</pre>
+- Serve the application:
+<pre>php artisan serve</pre>
+
+## Contributing
+- Fork the repository to your GitHub account.
+- Create a new branch from the main branch with a descriptive name:
+  <pre>git checkout -b feature/your-feature-name</pre>
+- Make your changes and commit them with clear commit messages.
+- Push your changes to your forked repository.
+- Create a Pull Request to the main branch of the original repository, explaining your changes.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -49,10 +67,6 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
 ## Code of Conduct
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
@@ -64,8 +78,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Getting Started
-- Clone the repository to your local machine
-- Generate a new application key:
-<pre>php artisan key:generate</pre>
