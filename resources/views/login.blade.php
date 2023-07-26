@@ -121,9 +121,9 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" class="discord-icon">
+                                    <a href="#" class="facebook-icon">
                                         <img src="{{ asset('images/icons/icon-facebook.svg') }}"
-                                            alt="Login with Discord">
+                                            alt="Login with Facebook">
                                     </a>
                                 </li>
                             </ul>
